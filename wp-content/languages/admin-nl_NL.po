@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 6.6.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-13 22:00:41+0000\n"
+"PO-Revision-Date: 2024-09-06 10:04:11+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -192,77 +192,77 @@ msgstr "Als je een plugin auteur bent, kun je meer leren over <a href=\"https://
 msgid "If you are a plugin author, you can learn more about <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\">how to add the Personal Data Eraser to a plugin</a>."
 msgstr "Als je een plugin auteur bent, kun je meer leren over <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\">hoe de persoonsgegevens wisser aan een plugin toe te voegen</a>."
 
-#: wp-admin/about.php:187
+#: wp-admin/about.php:212
 msgid "See everything new"
 msgstr "Bekijk alles wat nieuw is"
 
-#: wp-admin/about.php:187
+#: wp-admin/about.php:212
 msgid "https://wordpress.org/download/releases/6-6/"
 msgstr "https://wordpress.org/download/releases/6-6/"
 
-#: wp-admin/about.php:183
+#: wp-admin/about.php:208
 msgid "For a comprehensive overview of all the new features and enhancements in WordPress 6.6, please visit the feature-showcase website."
 msgstr "Voor een uitgebreid overzicht van alle nieuwe functies en verbeteringen in WordPress 6.6, bezoek de feature-showcase site."
 
-#: wp-admin/about.php:181
+#: wp-admin/about.php:206
 msgid "And much more"
 msgstr "En nog veel meer"
 
-#: wp-admin/about.php:174
+#: wp-admin/about.php:199
 msgid "55+ accessibility fixes and enhancements focus on foundational aspects of the WordPress experience, particularly the data views component powering the new site editing experience and areas like the Inserter that provide a key way of interacting with blocks and patterns."
 msgstr "55+ toegankelijkheidsoplossingen en verbeteringen richten zich op fundamentele aspecten van de WordPress ervaring, met name de dataviews component die de nieuwe site bewerkingservaring aandrijft en gebieden zoals de inserter die een belangrijke manier bieden om met blokken en patronen te werken."
 
 #. translators: %1$s: code-formatted "WP_Theme_JSON", %2$s: code-formatted
 #. "data-wp-on-async", %%: escaped percent sign, leave as %%.
-#: wp-admin/about.php:159
+#: wp-admin/about.php:184
 msgid "WordPress 6.6 includes important updates like removing redundant %1$s calls, disabling autoload for large options, eliminating unnecessary polyfill dependencies, lazy loading post embeds, introducing the %2$s directive, and a 33%% reduction in template loading time in the editor."
 msgstr "WordPress 6.6 bevat belangrijke updates zoals het verwijderen van overbodige %1$s aanroepen, het uitschakelen van autoload voor grote opties, het elimineren van onnodige polyfill afhankelijkheden, lazy-loading van bericht insluitingen, het introduceren van de %2$s richtlijn en een vermindering van 33%% in laadtijd van templates in de editor."
 
-#: wp-admin/about.php:136
+#: wp-admin/about.php:161
 msgid "Allow specific pieces of content to be customized in each instance of a synced pattern while keeping a consistent style for all instances, simplifying future updates. Currently, you can set overrides for Heading, Paragraph, Button, and Image blocks."
 msgstr "Sta specifieke stukken inhoud toe om aangepast te worden in elke instantie van een gesynchroniseerd patroon terwijl een consistente stijl voor alle instanties behouden blijft, wat toekomstige updates vereenvoudigt. Momenteel kun je overschrijvingen instellen voor koptekst, paragraaf, knop en afbeelding blokken."
 
-#: wp-admin/about.php:136
+#: wp-admin/about.php:161
 msgid "Add the ability to customize content in synced patterns."
 msgstr "Voeg de mogelijkheid toe om inhoud in gesynchroniseerde patronen aan te passen."
 
-#: wp-admin/about.php:119
+#: wp-admin/about.php:144
 msgid "Enjoy the ease of plugin auto-updates with the safety of rollbacks if anything goes wrong, improving your site&#8217;s security while minimizing potential downtime."
 msgstr "Geniet van het gemak van plugin auto-updates met de veiligheid van rollbacks als er iets misgaat, waardoor je site beveiliging verbetert terwijl mogelijke downtime wordt geminimaliseerd."
 
-#: wp-admin/about.php:119
+#: wp-admin/about.php:144
 msgid "Auto-update your plugins with peace of mind."
 msgstr "Auto-update je plugins met een gerust hart."
 
-#: wp-admin/about.php:118
+#: wp-admin/about.php:143
 msgid "Rollbacks for plugin auto-updates"
 msgstr "Rollbacks voor plugin auto-updates"
 
-#: wp-admin/about.php:112
+#: wp-admin/about.php:137
 msgid "See all of your pages and a preview of any selected page before you edit via a new side-by-side layout in the Site Editor."
 msgstr "Bekijk al je pagina's en een voorbeeld van elke geselecteerde pagina voordat je deze bewerkt via een nieuwe zij-aan-zij lay-out in de Site-editor."
 
-#: wp-admin/about.php:112
+#: wp-admin/about.php:137
 msgid "Simplify your workflow with a new layout built for pages."
 msgstr "Vereenvoudig je workflow met een nieuwe lay-out gebouwd voor pagina's."
 
-#: wp-admin/about.php:111
+#: wp-admin/about.php:136
 msgid "Quick previews for pages"
 msgstr "Snelle voorbeelden voor pagina's"
 
-#: wp-admin/about.php:95
+#: wp-admin/about.php:120
 msgid "Block theme authors can create unlimited individual color or font sets to offer more specific design options within the same theme. These sets provide more contained design possibilities, allowing for customization without changing the site&#8217;s broader styling, beyond color or typography settings."
 msgstr "Auteurs van blokthema's kunnen onbeperkte individuele kleur of lettertype sets maken om meer specifieke ontwerpmogelijkheden binnen hetzelfde thema aan te bieden. Deze sets bieden meer beperkte ontwerprechten, waardoor maatwerk mogelijk is zonder de bredere styling van de site te veranderen, buiten kleur of typografie instellingen."
 
-#: wp-admin/about.php:95
+#: wp-admin/about.php:120
 msgid "Add more design options to any block theme."
 msgstr "Voeg meer ontwerpopties toe aan elk blokthema."
 
-#: wp-admin/about.php:94
+#: wp-admin/about.php:119
 msgid "Color palettes & font sets"
 msgstr "Kleurpaletten & lettertype sets"
 
-#: wp-admin/about.php:87
+#: wp-admin/about.php:112
 msgid "Create and deploy beautiful and coherent design elements across your sites with WordPress 6.6. A new rollback option for auto-updating plugins gives you control, flexibility, and peace of mind."
 msgstr "Creëer en implementeer mooie en coherente ontwerpelementen op je sites met WordPress 6.6. Een nieuwe rollback optie voor het automatisch updaten van plugins geeft je controle, flexibiliteit en gemoedsrust."
 
@@ -405,11 +405,11 @@ msgstr "Nu installeren"
 msgid "Created by a worldwide team of passionate individuals"
 msgstr "Gecreëerd door een wereldwijd team van gepassioneerde individuen"
 
-#: wp-admin/about.php:173
+#: wp-admin/about.php:198
 msgid "Accessibility improvements"
 msgstr "Toegankelijkheid verbeteringen"
 
-#: wp-admin/about.php:154
+#: wp-admin/about.php:179
 msgid "Performance updates"
 msgstr "Prestatie updates"
 
@@ -482,12 +482,12 @@ msgid "When using Bulk Edit, you can change the metadata (categories, author, et
 msgstr "Bij het gebruik van bulk bewerken, kun je de meta gegevens (categorieën, auteur, etc.) voor alle geselecteerde berichten tegelijkertijd wijzigen. Om een bericht uit de groep te verwijderen, klik je gewoon op de %s<span class=\"screen-reader-text\">verwijderen</span> knop naast de naam in het bulk bewerken gebied dat verschijnt."
 
 #. translators: 1: WordPress Release Notes link, 2: WordPress version number.
-#: wp-admin/about.php:252
+#: wp-admin/about.php:277
 msgid "<a href=\"%1$s\">Read the WordPress %2$s Release Notes</a> for information on installation, enhancements, fixed issues, release contributors, learning resources, and the list of file changes."
 msgstr "<a href=\"%1$s\">Lees de WordPress %2$s release notes</a> voor informatie over installatie, verbeteringen, opgeloste problemen, bijdragers aan de release, leermiddelen en de lijst met bestandswijzigingen."
 
 #. translators: 1: WordPress Field Guide link, 2: WordPress version number.
-#: wp-admin/about.php:233
+#: wp-admin/about.php:258
 msgid "Explore the <a href=\"%1$s\">WordPress %2$s Field Guide</a>. Learn about the changes in this release with detailed developer notes to help you build with WordPress."
 msgstr "Verken de <a href=\"%1$s\">WordPress %2$s Field Guide</a>. Leer over de veranderingen in deze release met gedetailleerde ontwikkelaars notities om je te helpen bouwen met WordPress."
 
@@ -508,7 +508,7 @@ msgid "Your WordPress version is %1$s, however the new plugin version requires %
 msgstr "Je WordPress versie is %1$s, maar de nieuwe plugin versie vereist %2$s."
 
 #. translators: %s: WordPress version.
-#: wp-admin/about.php:66
+#: wp-admin/about.php:66 wp-admin/about.php:91
 msgid "https://wordpress.org/support/wordpress-version/version-%s/"
 msgstr "https://wordpress.org/support/wordpress-version/version-%s/"
 
@@ -975,7 +975,7 @@ msgid "Be the future of WordPress"
 msgstr "Wees de toekomst van WordPress"
 
 #. translators: 1: Learn WordPress link, 2: Workshops link.
-#: wp-admin/about.php:212
+#: wp-admin/about.php:237
 msgid "<a href=\"%1$s\">Learn WordPress</a> is a free resource for new and experienced WordPress users. Learn is stocked with how-to videos on using various features in WordPress, <a href=\"%2$s\">interactive workshops</a> for exploring topics in-depth, and lesson plans for diving deep into specific areas of WordPress."
 msgstr "<a href=\"%1$s\">Learn WordPress</a> is een gratis bron voor nieuwe en ervaren WordPress gebruikers. Learn staat vol met how-to video's over het gebruik van verschillende functies in WordPress, <a href=\"%2$s\">interactieve workshops</a> om dieper op onderwerpen in te gaan, en lesplannen om diep in te gaan op specifieke gebieden van WordPress."
 
@@ -1034,7 +1034,7 @@ msgstr "Je kunt de taal instellen en WordPress zal automatisch de vertaalbestand
 
 #: wp-admin/options-general.php:43
 msgid "If you want site visitors to be able to register themselves, check the membership box. If you want the site administrator to register every new user, leave the box unchecked. In either case, you can set a default user role for all new users."
-msgstr "Als je wil dat sitebezoekers zichzelf kunnen registreren, vink je de lidmaatschap box aan. Als je wil dat de sitebeheerder elke nieuwe gebruiker registreert, laat je de box uitgevinkt. In beide gevallen kan je een standaard gebruikersrol instellen voor alle nieuwe gebruikers."
+msgstr "Als je wil dat site bezoekers zichzelf kunnen registreren, vink je het lidmaatschap vak aan. Als je wil dat de site beheerder elke nieuwe gebruiker registreert, laat je het vak uitgevinkt. In beide gevallen kan je een standaard gebruikers rol instellen voor alle nieuwe gebruikers."
 
 #. translators: 1: http://, 2: https:
 #: wp-admin/options-general.php:39
@@ -1115,17 +1115,17 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/keyboard-shortcuts
 msgid "<a href=\"https://wordpress.org/documentation/article/understand-comment-spam/\">Documentation on Comment Spam</a>"
 msgstr "<a href=\"https://wordpress.org/documentation/article/understand-comment-spam/\">Documentatie over reactie spam</a>"
 
-#: wp-admin/customize.php:255
+#: wp-admin/customize.php:257
 msgid "<a href=\"https://wordpress.org/documentation/article/customizer/\">Documentation on Customizer</a>"
 msgstr "<a href=\"https://wordpress.org/documentation/article/customizer/\">Documentatie over Customizer</a>"
 
 #. translators: The localized WordPress download URL.
-#: wp-admin/about.php:338
+#: wp-admin/about.php:363
 msgid "https://wordpress.org/download/"
 msgstr "https://nl.wordpress.org/download/"
 
 #. translators: %s: The major version of WordPress for this branch.
-#: wp-admin/about.php:335
+#: wp-admin/about.php:360
 msgid "This is the final release of WordPress %s"
 msgstr "Dit is de meest recente release van WordPress %s"
 
@@ -1452,21 +1452,21 @@ msgid "Reach out to WordPress Core developers to ensure you'll never have this p
 msgstr "Neem contact op met WordPress Core-ontwikkelaars om ervoor te zorgen dat je dit probleem nooit meer zult hebben."
 
 #. translators: 1: WordPress version number, 2: Link to update WordPress
-#: wp-admin/about.php:332
+#: wp-admin/about.php:357
 msgid "Important! Your version of WordPress (%1$s) will stop receiving security updates in the near future. To keep your site secure, please <a href=\"%2$s\">update to the latest version of WordPress</a>."
 msgstr "Belangrijk! Je versie van WordPress (%1$s) zal in de nabije toekomst geen veiligheid updates meer ontvangen. Om je site veilig te houden, <a href=\"%2$s\">update naar de nieuwste versie van WordPress</a>."
 
 #. translators: 1: WordPress version number, 2: Link to update WordPress
-#: wp-admin/about.php:329
+#: wp-admin/about.php:354
 msgid "Important! Your version of WordPress (%1$s) is no longer supported, you will not receive any security updates for your website. To keep your site secure, please <a href=\"%2$s\">update to the latest version of WordPress</a>."
 msgstr "Belangrijk! Je versie van WordPress (%1$s) wordt niet langer ondersteund, je zult geen veiligheid updates voor je site ontvangen. Om je site veilg te houden, <a href=\"%2$s\">update naar de nieuwste versie van WordPress</a>."
 
-#: wp-admin/about.php:234
+#: wp-admin/about.php:259
 msgid "https://make.wordpress.org/core/wordpress-6-6-field-guide/"
 msgstr "https://make.wordpress.org/core/wordpress-6-6-field-guide/"
 
 #. translators: %s: Version number.
-#: wp-admin/about.php:203
+#: wp-admin/about.php:228
 msgid "Learn more about WordPress %s"
 msgstr "Meer leren over WordPress %s"
 
@@ -2374,7 +2374,7 @@ msgstr "Nieuw applicatie wachtwoord toevoegen"
 msgid "Required to create an Application Password, but not to update the user."
 msgstr "Vereist om een applicatie wachtwoord aan te maken, maar niet om de gebruiker te updaten."
 
-#: wp-admin/about.php:273
+#: wp-admin/about.php:298
 msgid "Go to Updates"
 msgstr "Ga naar updates"
 
@@ -2983,7 +2983,7 @@ msgstr "Auto-updates kan worden in- of uitgeschakeld voor WordPress major versie
 msgid "<strong>Important:</strong> Before updating, please <a href=\"%1$s\">back up your database and files</a>. For help with updates, visit the <a href=\"%2$s\">Updating WordPress</a> documentation page."
 msgstr "<strong>Belangrijk:</strong> maak voordat je gaat updaten een <a href=\"%1$s\">back-up van je database en bestanden</a>. Voor hulp bij updates ga je naar de documentatiepagina van <a href=\"%2$s\">Updating WordPress</a>."
 
-#: wp-admin/customize.php:201 wp-admin/theme-install.php:433
+#: wp-admin/customize.php:203 wp-admin/theme-install.php:433
 #: wp-admin/theme-install.php:495 wp-admin/themes.php:631
 #: wp-admin/themes.php:1000 wp-admin/themes.php:1238
 msgctxt "theme"
@@ -5541,7 +5541,7 @@ msgstr "Deze plugin werkt niet met je versies van WordPress en PHP."
 
 #. translators: %s: WordPress version number.
 #. translators: %s: WordPress version.
-#: wp-admin/about.php:255 wp-admin/includes/update.php:324
+#: wp-admin/about.php:280 wp-admin/includes/update.php:324
 #: wp-admin/index.php:119 wp-admin/install.php:249 wp-admin/update-core.php:94
 #: wp-admin/upgrade.php:81
 msgid "https://wordpress.org/documentation/wordpress-version/version-%s/"
@@ -5911,7 +5911,7 @@ msgstr "Als je een account hebt op deze site of je hebt reacties achtergelaten, 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:593
 msgid "In this section you should explain what rights your users have over their data and how they can invoke those rights."
-msgstr "In dit onderdeel moet je uitleggen welke rechten je gebruikers hebben over hun gegevens en hoe zij zich op die rechten kunnen beroepen."
+msgstr "In deze sectie moet je uitleggen welke rechten je gebruikers hebben over hun gegevens en hoe zij zich op die rechten kunnen beroepen."
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:589
@@ -5926,7 +5926,7 @@ msgstr "Voor gebruikers die zich op onze site registreren (indien aanwezig), sla
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:583
 msgid "If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue."
-msgstr "Wanneer je een reactie achterlaat dan wordt die reactie en de metadata van die reactie voor altijd bewaard. Op deze manier kunnen we vervolgreacties automatisch herkennen en goedkeuren in plaats van dat we ze moeten modereren."
+msgstr "Wanneer je een reactie achterlaat dan wordt die reactie en de metadata van die reactie voor altijd bewaard. Op deze manier kunnen we vervolg reacties automatisch herkennen en goedkeuren in plaats van dat we ze moeten modereren."
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:580
@@ -6036,7 +6036,7 @@ msgstr "Als je een geregistreerde gebruiker bent en afbeeldingen naar de site up
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:493
 msgid "By default WordPress does not collect any personal data about visitors, and only collects the data shown on the User Profile screen from registered users. However some of your plugins may collect personal data. You should add the relevant information below."
-msgstr "Standaard verzamelt WordPress geen persoonlijke gegevens over bezoekers, alleen de gegevens die getoond worden in het scherm met het gebruikersprofiel van geregistreerde gebruikers. Maar sommige van je plugins kunnen ook persoonlijke gegevens verzamelen; voeg de relevante informatie hieronder toe."
+msgstr "Standaard verzamelt WordPress geen persoonsgegevens over bezoekers, alleen de gegevens die getoond worden in het scherm met het gebruikersprofiel van geregistreerde gebruikers. Maar sommige van je plugins kunnen ook persoonsgegevens verzamelen; voeg de relevante informatie hieronder toe."
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:491
@@ -6949,7 +6949,7 @@ msgstr "Je hebt geen toestemming om gebruikers te verwijderen."
 msgid "Sorry, you are not allowed to create users."
 msgstr "Je hebt geen toestemming om gebruikers aan te maken."
 
-#: wp-admin/customize.php:270
+#: wp-admin/customize.php:272
 msgctxt "short (~12 characters) label for hide controls button"
 msgid "Hide Controls"
 msgstr "Verbergen"
@@ -7023,7 +7023,7 @@ msgstr "Je hebt geen toestemming om bestanden aan dit bericht te koppelen."
 msgid "https://wordpress.org/plugins/"
 msgstr "https://nl.wordpress.org/plugins/"
 
-#: wp-admin/customize.php:250
+#: wp-admin/customize.php:252
 msgid "The Customizer allows you to preview changes to your site before publishing them. You can navigate to different pages on your site within the preview. Edit shortcuts are shown for some editable elements. The Customizer is intended for use with non-block themes."
 msgstr "Met de customizer kun je wijzigingen aan je site bekijken voordat je ze publiceert. Je kunt naar verschillende pagina's op je site navigeren in de voorbeeldweergave. Voor sommige bewerkbare elementen worden snelkoppelingen getoond. De customizer is bedoeld voor gebruik met niet-blok thema's."
 
@@ -7393,7 +7393,7 @@ msgid "You can filter the list of posts by post status using the text links abov
 msgstr "Je kunt de lijst met berichten filteren op berichtstatus met gebruik van de tekstlinks boven de berichtenlijst om alleen berichten met de betreffende status weer te geven. Standaard worden alle berichten weergegeven."
 
 #. translators: Hidden accessibility text.
-#: wp-admin/customize.php:215
+#: wp-admin/customize.php:217
 msgid "Close the Customizer and go back to the previous page"
 msgstr "Sluit de Customizer en ga terug naar de vorige pagina"
 
@@ -7848,7 +7848,7 @@ msgid "(Currently set to: %s)"
 msgstr "(Nu ingesteld op: %s)"
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:303
+#: wp-admin/about.php:328
 msgid "<strong>Version %s</strong> addressed one security issue."
 msgstr "<strong>Versie %s</strong> heeft één beveiligingsprobleem opgelost."
 
@@ -7860,15 +7860,15 @@ msgstr "https://en.gravatar.com/"
 msgid "Profile Picture"
 msgstr "Profielfoto"
 
-#: wp-admin/about.php:300
+#: wp-admin/about.php:46 wp-admin/about.php:325
 msgid "Maintenance and Security Releases"
 msgstr "Onderhoud en beveiliging releases"
 
-#: wp-admin/about.php:297
+#: wp-admin/about.php:322
 msgid "Security Releases"
 msgstr "Beveiligingsreleases"
 
-#: wp-admin/about.php:294
+#: wp-admin/about.php:319
 msgid "Maintenance Releases"
 msgstr "Onderhoudsreleases"
 
@@ -9731,7 +9731,7 @@ msgstr "<strong>Een klik op de pijl rechts naast het menu-item</strong> in de ed
 #. themes.
 #: wp-admin/nav-menus.php:708
 msgid "Menus can be displayed in locations defined by your theme, even used in sidebars by adding a &#8220;Navigation Menu&#8221; widget on the <a href=\"%1$s\">Widgets</a> screen. If your theme does not support the navigation menus feature (the default themes, %2$s and %3$s, do), you can learn about adding this support by following the documentation link to the side."
-msgstr "Menu's kunnen worden weergegeven op locaties die door je thema zijn gedefinieerd, zelfs in zijbalken door een &#8220;Navigatiemenu&#8221; widget op het <a href=\"%1$s\">Widgets</a> scherm. Als je thema de functie voor navigatiemenu's niet ondersteunt (de standaardthema's, %2$s en %3$s, wel), kun je leren over het toevoegen van deze ondersteuning door de documentatie link hiernaast te volgen."
+msgstr "Menu's kunnen worden weergegeven op locaties die door je thema zijn gedefinieerd, zelfs in zijbalken door een &#8220;Navigatiemenu&#8221; widget op het <a href=\"%1$s\">Widgets</a> scherm. Als je thema de functie voor navigatiemenu's niet ondersteunt (de standaard thema's, %2$s en %3$s, wel), kun je leren over het toevoegen van deze ondersteuning door de documentatie link hiernaast te volgen."
 
 #. translators: %s: URL to Widgets screen.
 #: wp-admin/nav-menus.php:691
@@ -10005,7 +10005,7 @@ msgstr "Dit pakket bevat geen bestanden."
 msgid "To navigate between revisions, <strong>drag the slider handle left or right</strong> or <strong>use the Previous or Next buttons</strong>."
 msgstr "Om te navigeren tussen revisies, <strong>sleep je de slider naar links of rechts</strong> of <strong>gebruik de Vorige of Volgende knoppen</strong>."
 
-#: wp-admin/customize.php:153 wp-admin/includes/class-wp-debug-data.php:453
+#: wp-admin/customize.php:155 wp-admin/includes/class-wp-debug-data.php:453
 #: wp-admin/includes/dashboard.php:1172
 msgid "Loading&hellip;"
 msgstr "Aan het laden&hellip;"
@@ -11201,13 +11201,13 @@ msgstr "Toolbar tonen tijdens bekijken van de site"
 
 #. translators: %s: HelpHub URL.
 #. translators: %s: Documentation URL.
-#: wp-admin/about.php:63 wp-admin/about.php:326
+#: wp-admin/about.php:63 wp-admin/about.php:88 wp-admin/about.php:351
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "Voor meer informatie, bekijk <a href=\"%s\">de versie opmerkingen</a>."
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:320
+#: wp-admin/about.php:345
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "<strong>Versie %1$s</strong> heeft enkele beveiligingsproblemen verholpen en %2$s bug opgelost."
@@ -11215,33 +11215,33 @@ msgstr[1] "<strong>Versie %1$s</strong> heeft enkele beveiligingsproblemen verho
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:314
+#: wp-admin/about.php:339
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "<strong>Versie %1$s</strong> loste een beveiligingsprobleem op en loste %2$s bug op."
 msgstr[1] "<strong>Versie %1$s</strong> loste een beveiligingsprobleem op en loste %2$s bugs op."
 
 #. translators: 1: WordPress version number, 2: Plural number of bugs.
-#: wp-admin/about.php:51 wp-admin/about.php:308
+#: wp-admin/about.php:51 wp-admin/about.php:76 wp-admin/about.php:333
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "<strong>Versie %1$s</strong> bevat %2$s bug oplossing."
 msgstr[1] "<strong>Versie %1$s</strong> bevat %2$s bug oplossingen."
 
 #. translators: %s: WordPress version number.
-#: wp-admin/about.php:305
+#: wp-admin/about.php:330
 msgid "<strong>Version %s</strong> addressed some security issues."
 msgstr "<strong>Versie %s</strong> loste enkele beveiligingsproblemen op."
 
-#: wp-admin/about.php:46 wp-admin/about.php:299
+#: wp-admin/about.php:324
 msgid "Maintenance and Security Release"
 msgstr "Onderhoud en beveiliging release"
 
-#: wp-admin/about.php:296
+#: wp-admin/about.php:321
 msgid "Security Release"
 msgstr "Beveiligingsrelease"
 
-#: wp-admin/about.php:293
+#: wp-admin/about.php:318
 msgid "Maintenance Release"
 msgstr "Onderhoudsrelease"
 
@@ -11445,7 +11445,7 @@ msgstr "Pagina's beheren lijkt erg op Berichten beheren en de schermen kunnen op
 
 #: wp-admin/edit-form-advanced.php:323 wp-admin/edit.php:311
 msgid "Pages are similar to posts in that they have a title, body text, and associated metadata, but they are different in that they are not part of the chronological blog stream, kind of like permanent posts. Pages are not categorized or tagged, but can have a hierarchy. You can nest pages under other pages by making one the &#8220;Parent&#8221; of the other, creating a group of pages."
-msgstr "Pagina&#39;s zijn gelijk aan berichten omdat ze een titel, tekstinhoud en geassocieerde metadata bevatten. Ze zijn echter verschillend omdat ze geen deel uitmaken van de chronologische sitestream, je kunt het vergelijken met statische berichten. Pagina&#39;s hebben geen categorie of tags, maar ze kunnen wel een hi&#235;rarchie bevatten. Pagina&#39;s kunnen genest worden door er &#233;&#233;n &#8220;Hoofd&#8221; te maken van de ander, bij het maken van een groep pagina&#39;s."
+msgstr "Pagina's zijn gelijk aan berichten omdat ze een titel, tekstinhoud en geassocieerde metadata bevatten. Ze zijn echter verschillend omdat ze geen deel uitmaken van de chronologische site stream, je kunt het vergelijken met statische berichten. Pagina's hebben geen categorie of tags, maar ze kunnen wel een hiërarchie bevatten. Pagina's kunnen genest worden door er &#233;&#233;n &#8220;Hoofd&#8221; te maken van de ander, bij het maken van een groep pagina's."
 
 #: wp-admin/edit-comments.php:223
 msgid "Many people take advantage of keyboard shortcuts to moderate their comments more quickly. Use the link to the side to learn more."
@@ -11517,15 +11517,15 @@ msgid "Because this is a multisite installation, you may add accounts that alrea
 msgstr "Omdat dit een multisite installatie is, kun je accounts toevoegen die al bestaan op het netwerk door een gebruikersnaam of e-mail te specificeren en een rol toe te wijzen. Voor meer opties, zoals een wachtwoord instellen moet je een netwerkbeheerder zijn en de hover link onder een bestaande gebruiksnaam klikken om het gebruikersprofiel te bewerken via Netwerk Beheer -> Alle gebruikers."
 
 #. translators: %s: Version number.
-#: wp-admin/about.php:81
+#: wp-admin/about.php:106
 msgid "Welcome to WordPress %s"
 msgstr "Welkom bij WordPress %s"
 
-#: wp-admin/about.php:280
+#: wp-admin/about.php:305
 msgid "Go to Dashboard &rarr; Home"
 msgstr "Ga naar Dashboard &rarr; Home"
 
-#: wp-admin/about.php:273
+#: wp-admin/about.php:298
 msgid "Go to Dashboard &rarr; Updates"
 msgstr "Ga naar Dashboard &rarr; Updates"
 
@@ -12624,7 +12624,7 @@ msgstr "Je moet onder aan het scherm op de Wijzigingen opslaan knop klikken om n
 
 #: wp-admin/edit-link-form.php:69
 msgid "The boxes for link name, web address, and description have fixed positions, while the others may be repositioned using drag and drop. You can also hide boxes you do not use in the Screen Options tab, or minimize boxes by clicking on the title bar of the box."
-msgstr "De boxen voor de naam van de link, het webadres en de beschrijving hebben vaste posities, terwijl de andere kunnen worden verplaatst met verslepen. Je kunt ook boxen die je niet gebruikt verbergen in de tab Schermopties, of boxen minimaliseren door op de titelbalk van de box te klikken."
+msgstr "De vakken voor de naam van de link, het webadres en de beschrijving hebben vaste posities, terwijl de andere kunnen worden verplaatst met verslepen. Je kunt ook boxen die je niet gebruikt verbergen in de tab Scherm opties, of vakken minimaliseren door op de titelbalk van het vak te klikken."
 
 #: wp-admin/update-core.php:643
 msgid "Your themes are all up to date."
@@ -13264,7 +13264,7 @@ msgstr "WordPress updates"
 msgid "Edit menu item"
 msgstr "Menu-item bewerken"
 
-#: wp-admin/about.php:280
+#: wp-admin/about.php:305
 msgid "Go to Dashboard"
 msgstr "Naar het dashboard"
 
