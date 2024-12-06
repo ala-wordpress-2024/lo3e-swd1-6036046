@@ -16,33 +16,50 @@ body {
     margin: auto;
     line-height: 1.65;
     font-family: Georgia, Times, Times New Roman, serif;
-    background-color: white;
+    background: linear-gradient(135deg, darkblue 0%, white 40%, #7f461b 90%);
+    
 }
 
 h1{
-    background-color: white;
+    
 }
 h2{
-    background-color: white;
+    
 }
 h3{
-    background-color: white;
+    
 }
 h4{
-    background-color: white;
+    
 }
 h5{
-    background-color: white;
+    
 }
 h6{
-    background-color: white;
-}
-.menu {
-    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+   
 }
 
+.menu {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 10px;
+    color: #7f461b;
+}
+
+.menu ul {
+    color: white;
+    text-decoration: none;
+    padding-top: 40px;
+    gap: 100px;
+    display: flex;
+}
+
+.menu a:hover {
+    color: #ffcc00; 
+}
+
+
 a {
-	color: #073979;
+	color: whitesmoke;
 }
 
 .site-header {
@@ -58,7 +75,7 @@ a {
 
 .site-title a {
     text-decoration: none;
-    color: black
+    color: brown
 }
 
 .site-description {
